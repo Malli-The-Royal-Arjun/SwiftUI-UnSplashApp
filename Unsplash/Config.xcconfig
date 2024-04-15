@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  Unsplash
+//
+//  Created by Mallikarjuna Rao Mupparaju on 15/04/24.
+//
+API_KEY=<ADD-API-KEY-HERE>
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
